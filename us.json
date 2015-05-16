@@ -1,0 +1,70 @@
+{
+    "first_row": [
+        {"key": "§", "key_code": "100"},
+        {"key": "1", "key_code": "100"},
+        {"key": "2", "key_code": "100"},
+        {"key": "3", "key_code": "100"},
+        {"key": "4", "key_code": "100"},
+        {"key": "5", "key_code": "100"},
+        {"key": "6", "key_code": "100"},
+        {"key": "7", "key_code": "100"},
+        {"key": "8", "key_code": "100"},
+        {"key": "9", "key_code": "100"},
+        {"key": "0", "key_code": "100"},
+        {"key": "-", "key_code": "100"},
+        {"key": "=", "key_code": "100"}
+    ],
+    "second_row": [
+        {"key": "q", "key_code": "100"},
+        {"key": "w", "key_code": "100"},
+        {"key": "e", "key_code": "100"},
+        {"key": "r", "key_code": "100"},
+        {"key": "t", "key_code": "100"},
+        {"key": "y", "key_code": "100"},
+        {"key": "u", "key_code": "100"},
+        {"key": "i", "key_code": "100"},
+        {"key": "o", "key_code": "100"},
+        {"key": "p", "key_code": "100"},
+        {"key": "[", "key_code": "100"},
+        {"key": "]", "key_code": "100"}
+    ],
+    "third_row": [
+        {"key": "a", "key_code": "100"},
+        {"key": "s", "key_code": "100"},
+        {"key": "d", "key_code": "100"},
+        {"key": "f", "key_code": "100"},
+        {"key": "g", "key_code": "100"},
+        {"key": "h", "key_code": "100"},
+        {"key": "j", "key_code": "100"},
+        {"key": "k", "key_code": "100"},
+        {"key": "l", "key_code": "100"},
+        {"key": ";", "key_code": "100"},
+        {"key": "'", "key_code": "100"},
+        {"key": "\\", "key_code": "100"}
+    ],
+    "fourth_row": [
+        {"key": "`", "key_code": "100"},
+        {"key": "z", "key_code": "100"},
+        {"key": "x", "key_code": "100"},
+        {"key": "c", "key_code": "100"},
+        {"key": "v", "key_code": "100"},
+        {"key": "b", "key_code": "100"},
+        {"key": "n", "key_code": "100"},
+        {"key": "m", "key_code": "100"},
+        {"key": ",", "key_code": "100"},
+        {"key": ".", "key_code": "100"},
+        {"key": "/", "key_code": "100"}
+    ],
+    "fifth_row": [
+        {"key": "ctrl", "key_code": "100"},
+        {"key": "alt", "key_code": "100"},
+        {"key": "cmd", "key_code": "100"},
+        {"key": "spc", "key_code": "100"},
+        {"key": "cmd", "key_code": "100"},
+        {"key": "alt", "key_code": "100"},
+        {"key": "left", "key_code": "100"},
+        {"key": "up", "key_code": "100"},
+        {"key": "right", "key_code": "100"},
+        {"key": "down", "key_code": "100"}
+    ]
+}
