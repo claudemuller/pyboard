@@ -10,8 +10,8 @@ A onscreen/virtual keyboard
 author: Claude Müller
 """
 
-from tkinter import Tk, BOTH, LEFT, TOP
-from tkinter.ttk import Frame, Button, Style
+from tkinter import Tk, BOTH, LEFT, TOP, Button
+from tkinter.ttk import Frame, Style #, Button
 import json
 import collections
 from pprint import pprint
@@ -67,7 +67,7 @@ class Pyboard(Frame):
             for key in sortedLayout[row]:
                 tempKey = {
                         "key": key['key'],
-                        "btn": Button(rowKeys, text = key['key'], command=self.passingBy)
+                        "btn": Button(rowKeys, text = key['key'], command=self.passingBy, height=4, width=15)
                         }
                 if left:
                     stack = LEFT
